@@ -1,7 +1,7 @@
 # Reproducing an exponential grayscale cmap
 
 
-What I learned while in reproducing Figure 1 from the paper "Perception of visual information: The role of colour in seismic interpretation", by Froner et alii, First Break, March 2013.
+What I learned in the process of reproducing Figure 1 from the paper "Perception of visual information: The role of colour in seismic interpretation", by Froner et alii, First Break, March 2013.
 
 And giving some general advice for how to go about it:
 
