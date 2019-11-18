@@ -11,7 +11,7 @@ You can work through the entire workflow in the notebook [How to make exponentia
 - Step 5. Do some extra work (i.e. improve the plots, or add interactivity).
 - Step 6. Pay it forward. Share your results with a permissive license, ideally CC-BY. 
 
-A full article will appear as a chapter in the upcoming book "52 things you should know about geocomputing, to be published by [Agile Libre](https://www.agilelibre.com).
+A full article will appear as a chapter in the upcoming book "52 things you should know about geocomputing", to be published by [Agile Libre](https://www.agilelibre.com).
 
 Reference
 Perception of visual information: The role of colour in seismic interpretation"
