@@ -1,18 +1,12 @@
 # Reproducing an exponential grayscale cmap
 
-This repository stems from my experience reproducing [Figure 1](https://images.app.goo.gl/aGeNcomJVExzwYJs8) from the Reference paper, and and my desire to give some advice on the reproducibility process.
+What I learned in the process of reproducing [Figure 1](https://images.app.goo.gl/aGeNcomJVExzwYJs8) from the paper "Perception of visual information: The role of colour in seismic interpretation", by Froner et alii, First Break, March 2013.
 
-You can work through the entire workflow in the notebook [How to make exponential greayscale](https://github.com/mycarta/Reproducing-exponential-grayscale-cmap/blob/master/How_to_make_exponetial_grayscale.ipynb)
+And giving some general advice for how to go about it:
 
-- Step 1. Get permission. 
-- Step 2. Figure out the math. 
-- Step 3. Get the plots right.
-- Step 4. Test the results on some data.
-- Step 5. Do some extra work (i.e. improve the plots, or add interactivity).
-- Step 6. Pay it forward. Share your results with a permissive license, ideally CC-BY. 
-
-A full article will appear as a chapter in the upcoming book "52 things you should know about geocomputing", to be published by [Agile Libre](https://www.agilelibre.com).
-
-Reference
-Perception of visual information: The role of colour in seismic interpretation"
-By Froner, B., Purves, S., Lowell, J., and Henderson, J. (2013), First Break. 31, DOI 10.3997/1365-2397.2013010.
+- Get permission. Ask for permission to use the data, if the data is not open, or if uncertain; if it's only a figure, ask for permission to show the original with the reproduced one
+- Do the math. Define, study and test the equations / functions and other computations necessary to replicate the figure
+- Get the plots right. Figure out the specific plotting stuff to replicate the figure (and improve it if necessary)
+- Extra work. Go further, add interactivity for others to experiment with it
+- Test the results. Test on the data that come with the paper, if possible, or other data (model and real)
+- Pay back. Share your results. It with a permissive license, ideally CC-BY
