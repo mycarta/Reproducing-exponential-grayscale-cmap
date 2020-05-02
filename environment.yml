@@ -1,0 +1,16 @@
+name: sigm2020
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - Python=3.7.1
+  - matplotlib
+  - numpy
+  - scikit-image
+  - Ipython
+  - ipywidgets
+  - jupyter
+  - ipykernel
+  - colourspacious
+  - voila
+  - jupyter_client
