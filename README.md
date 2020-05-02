@@ -13,4 +13,4 @@ And giving some general advice for how to go about it:
 
 
 #### Interactive notebooks:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Reproducing-exponential-grayscale-cmap-------–--==/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Reproducing-exponential-grayscale-cmap/master)
