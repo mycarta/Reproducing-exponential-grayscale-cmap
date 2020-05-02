@@ -1,4 +1,4 @@
-name: sigm2020
+name: exp2020
 channels:
   - conda-forge
   - defaults
