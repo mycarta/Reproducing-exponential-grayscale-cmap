@@ -11,6 +11,8 @@ dependencies:
   - ipywidgets
   - jupyter
   - ipykernel
-  - colourspacious
   - voila
   - jupyter_client
+  - pip
+  - pip:
+      - colourspacious
